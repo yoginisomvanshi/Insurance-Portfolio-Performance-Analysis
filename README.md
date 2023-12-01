@@ -1,1 +1,2 @@
 # Insurance-Portfolio-Performance-Analysis
+Directed a comprehensive insurance policy analysis project tailored for a US client, leveraging Power BI to scrutinize plan-wise and region-wise. Delivered insightful evaluations of claim and non-claim policies, refining risk assessments and enhancing underwriting decisions. The project significantly elevated data-driven decision-making, aligning insurance products with the specific needs of the US client."
